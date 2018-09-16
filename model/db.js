@@ -28,7 +28,7 @@ db.connection = function(){
         host:'localhost',
         user:'root',
         password:'root@9527',
-        database:'dbtest',
+        database:'enterprise-api',
         port:3306
     });
     //数据库连接
